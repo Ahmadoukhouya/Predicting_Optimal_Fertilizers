@@ -28,7 +28,6 @@ Le dataset contient les features suivantes :
 ```bash
 git clone https://github.com/Ahmad-Oukhouya/optimal-fertilizer.git
 cd optimal-fertilizer
-pip install -r requirements.txt
 ```
 
 ## 💻 Structure du Projet
@@ -40,10 +39,8 @@ optimal-fertilizer/
 │   └── test.csv
 │
 ├── notebooks/
-│   ├── Import_CleanData.ipynb
 │   └── OptimalFertilizer.ipynb
 │
-├── requirements.txt
 └── README.md
 ```
 
@@ -92,5 +89,3 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour p
 ## 📞 Contact
 - Email: oukhouyaahmad@gmail.com
 - LinkedIn: [Ahmad Oukhouya](https://linkedin.com/in/ahmad-oukhouya)
-- Téléphone: +212762305512
-- Twitter: [@votretwitter](https://twitter.com/votretwitter)
